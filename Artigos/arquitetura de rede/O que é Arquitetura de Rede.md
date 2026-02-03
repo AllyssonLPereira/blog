@@ -1,9 +1,3 @@
----
-tags:
-  - root
----
-- CAPA
-
 ![[capa_arquitetura_urbana.jpeg]]
 
 # O que é Arquitetura de Rede?
@@ -31,7 +25,8 @@ Mas como exatamente isso acontece? Vamos por partes.
 
 Primeiro, vamos entender os **modelos de comunicação** — mais especificamente, dois deles.
 
-> [!NOTE] Definição de modelo 
+> Definição de modelo 
+>
 > Um modelo é algo que serve de referência, um padrão a ser seguido. Assim, _modelos de comunicação_ representam como a comunicação na rede deve ocorrer. Em outras palavras, a rede deve “imitar” o modelo.
 
 Existem dois principais modelos para descrever as funções que precisam ocorrer para que uma comunicação seja bem-sucedida: o **modelo OSI** e o **modelo TCP/IP**.
@@ -78,11 +73,3 @@ Arquitetura de rede é um tema vasto. Além dos modelos de comunicação e do de
 - Topologias físicas e lógicas;
 - Meios de transmissão — cobre, fibra, radiofrequência;
 - Dispositivos de rede, como roteadores, switches, firewalls, IPS, IDS e muitos outros.
-
----
-## Links
-
-
-[[Tipos de arquitetura de redes]]
-[[1° Post - Topologias lógicas]]
-[[1° Post - Topologias físicas]]
